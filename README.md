@@ -12,7 +12,6 @@ This project investigates a failed cannibalization strategy in the injectable an
 Using Medicare CCLF claims data spanning 2016 to 2018, the team conducts a full commercial analytics workup — market share trends, prescriber productivity, territory performance, patient demographics, diagnosis specialty, and writer acquisition and retention — to diagnose the root cause and deliver prioritized, data-driven recommendations for the sales and marketing team.
 
 ---
-
 **Professor:** Sanjiv Koshal
 
 ---
