@@ -13,16 +13,6 @@ Using Medicare CCLF claims data spanning 2016 to 2018, the team conducts a full 
 
 ---
 
-## Team
-
-| Name | Role |
-|---|---|
-| Puja Dey | Market Dynamics Analyst |
-| Bhuvan Chandra Alladi | Writer Productivity & Territory Specialist |
-| Aakarsh Reddy Thumma | Patient & Specialty Insights Analyst |
-| Chetan Raghavendra Deshpande | Strategic Recommendations Lead |
-| Hsin-Yu Shih | Data Strategy & Future Analytics Lead |
-
 **Professor:** Sanjiv Koshal
 
 ---
